@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Visualizações%20&color=8a2be2&style=flat" alt="4ntx" /> </p>
 <h3 align="center">Linguagens e aprendizados:</h3>
-<p align="center"> Em busca de aprendizados </p>
+<p align="center"> %certificados% </p>
 <p> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4ntx&show_icons=true&theme=dark&locale=en&layout=compact" alt="4ntx" /></p>
