@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Artur</h1>
 <h3 align="center">A Procura de aprendizado;</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Profile%20views&color=8a2be2&style=flat" alt="4ntx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Visualizações%20&color=8a2be2&style=flat" alt="4ntx" /> </p>
 <h3 align="center">Linguagens e aprendizados:</h3>
 <p align="center"> Em busca de aprendizados </p>
 <p> </p>
