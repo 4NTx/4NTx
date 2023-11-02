@@ -13,7 +13,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=4ntx&theme=dark&show_icons=true&count_private=true&locale=pt-BR" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=4ntx&hide_border=false&locale=pt-BR" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ntx&theme=dark&hide_border=false&locale=pt-BR" /> 
 </td>
 
 <td width="50%" align="center">
