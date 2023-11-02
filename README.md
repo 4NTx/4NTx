@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Visualizações%20&color=8a2be2&style=flat" alt="4ntx" /> </p>
 <p> </p>
 
- <p align="center"> <img src="bat.gif" alt="4ntx" width="60%" height="60%" /> </p>p
+ <p align="center" width="50%" > <img src="bat.gif" alt="4ntx" /> </p>p
 
 <p align="center">
 <table align="center">
