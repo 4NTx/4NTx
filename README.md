@@ -2,8 +2,6 @@
 <h3 align="center">A Procura de aprendizado;</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Visualizações%20&color=8a2be2&style=flat" alt="4ntx" /> </p>
-<h3 align="center">Linguagens e aprendizados:</h3>
-<p align="center"> %certificados% </p>
 <p> </p>
 
 <p align="center">
@@ -34,6 +32,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,css,docker,express,firebase,github,html,idea,java,js,kotlin,,mongodb,mysql,nextjs,nestjs,nodejs,postman,py,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,docker,express,firebase,github,html,idea,java,js,kotlin,mysql,nestjs,nodejs,postman,py,ts,vscode&perline=14" />
   </a>
 </p>
