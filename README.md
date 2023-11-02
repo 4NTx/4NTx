@@ -19,7 +19,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=4ntx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=pt-BR"/>
-  
+  <p>a sua</p>  
   </td>
 </tr>
 </table>
