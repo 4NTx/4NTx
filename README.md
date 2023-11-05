@@ -2,9 +2,9 @@
 <h3 align="center">A Procura de aprendizado;</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4ntx&label=Visualizações%20&color=8a2be2&style=flat" alt="4ntx" /> </p>
-<p> </p>
+<br>
 
- <p align="center" width="50%" > <img src="bat.gif" alt="4ntx" /> </p>p
+ <p align="center" width="50%" > <img src="bat.gif" alt="4ntx" /> </p>
 
 <p align="center">
 <table align="center">
